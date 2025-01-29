@@ -14,7 +14,7 @@ The Event Management System is a web application designed to help users manage e
 ## Installation Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/event_management.git
+    git clone https://github.com/Shaikat-CSE/Event-Management-System-using-PHP-MySQL.git
     ```
 
 2. **Navigate to the project directory:**
