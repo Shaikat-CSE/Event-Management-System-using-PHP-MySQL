@@ -19,7 +19,7 @@ The Event Management System is a web application designed to help users manage e
 
 2. **Navigate to the project directory:**
     ```bash
-    cd event_management
+    cd Event-Management-System-using-PHP-MySQL
     ```
 
 3. **Set up the database:**
@@ -57,10 +57,6 @@ The Event Management System is a web application designed to help users manage e
 - **Admin User:**
   - Username: `shaikat143@gmail.com`
   - Password: `5254`
-
-- **Regular User:**
-  - Username: `user`
-  - Password: `user123`
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
